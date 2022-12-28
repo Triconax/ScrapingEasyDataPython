@@ -1,4 +1,4 @@
-# Scraping Data using Python for beginner's (401 status code solved)
+# Scraping Data using Python for beginner's (401 status_code fix)
 
 Learn to scrape a basic website step-by-step using Python. It is very easy to do and you can refer to my work. 
 
